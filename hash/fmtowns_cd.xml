@@ -21,14 +21,12 @@ A Night in Tunisia                                            Raison            
 Ablemax Eigo                                                  Able Serve                        1995/6     SET(CD+FD)
 Ablemax Kokugo                                                Able Serve                        1995/6     SET(CD+FD)
 Ablemax Suugaku                                               Able Serve                        1995/6     SET(CD+FD)
-AD&D Heroes of the Lance                                      Pony Canyon                       1990/6     CD
 Aesop World Dai-2-shuu (Denshi Ehon)                          Fujitsu                           1993/12    CD
 Aishuu to Netsujou no Chouwa                                  Fujitsu                           1995/4     CD
 Alice in Wonderland                                           DynEd Japan                       1993/3     SET(CD+FD)
 Amour Ver. 1.0                                                Kozu System                       1989/11    SET(CD+FD)
 AniVox Eiken 3-4-kyuu Hatsuon-Accent Ban                      Unity                             1992/6     SET(CD+FD)
 Anne no Tea Party                                             Dennou Shoukai                    1993/6     CD
-Arquelphos                                                    D.O.                              1993/7     CD
 Aska Base                                                     Algo                              1989/5     SET(CD+FD)
 Aska Word                                                     Algo                              1991/1     SET(CD+FD)
 * Band-kun                                                    Koei                              1991/1     SET(CD+FD)
@@ -56,10 +54,9 @@ Chikyuu no Himitsu (Kankyou Kyouiku Kyouzai)                  Fujitsu           
 Chiri Jigsaw World 2                                          Fujitsu Ooita Software Laboratory 1994/12    SET(CD+FD)
 Chotto Shita Ohanashi                                         Fujitsu                           1995/11    CD
 Chuugokugo de Ajiwau: Kanshi no Sekai                         CSK Research Institute (CRI)      1991/4     CD
-City Lights                                                   Raison                            1992/8     CD
 ClearMind: Shimoguchi Yuuzan no Shuuchuuryoku Kaihatsu        CSK Research Institute (CRI)      1989/8     CD
 * Crayonnage                                                  CSK Research Institute (CRI)      1991/8     SET(CD+FD)
-CRI StacCard                                                  CSK Research Institute (CRI)      1991/5     SET(CD+FD)
+* CRI StacCard                                                CSK Research Institute (CRI)      1991/5     SET(CD+FD)
 Cutie Queen                                                   Crystal Eizou                     1995/2     CD
 CyberSculpt (HMC-140)                                         Fujitsu                           1991/11    CD
 Cyclone Express Alpha Towns                                   Ans                               1990/5     CD
@@ -131,7 +128,6 @@ Fancy Illust: Hattori Yuki no Wakuwaku Cut-shuu               CSK Research Insti
 F-BASIC Compiler V1.1                                         Fujitsu                           1990/12    CD
 FIRSTHAND ACCESS(Disc1)                                       DynEd Japan                       1994/11    SET(CD+FD)
 FIRSTHAND ACCESS(Disc2)                                       DynEd Japan                       1994/11    SET(CD+FD)
-FM Towns Appli Jikkou Set                                     Fujitsu                           1993/6     CD
 FM Towns de Manabu School-Ace Alpha                           Fujitsu                           1993/4     CD
 FM Towns Free Ware Collection (EYE COM-ban)                   Fujitsu                           1989/11    CD
 FM Towns Paso-Rika Ver. 3                                     Maris                             1993/11    CD
@@ -266,7 +262,6 @@ Museum Etude Towns                                            Victor Entertainme
 Museum of Museums                                             Fujitsu                           1994/3     CD
 Mushi no Mahou Tsukai                                         Fujitsu Social Science Laboratory 1995/11    CD
 Music Drill Ongaku Q&A                                        Kawai                             1992/2     CD
-Music Pro V1.3 (MIDI)                                         Musical Plan                      1995/2     CD
 Music Pro V2 (MIDI)                                           Musical Plan                      1996/3     CD
 Music Pro V2 (Naizou)                                         Musical Plan                      1996/3     CD
 MusicPress Vol. 1: Cinema Scene                               Fujitsu                           1993/11    CD
@@ -285,11 +280,9 @@ Nazoraa 5-nen                                                 Infortech         
 Nazoraa 6-nen                                                 Infortech                         1993/4     SET(CD+FD)
 New Century Eiwa                                              Fujitsu                           1990/5     CD
 New Century Eiwa / Shin Crown Waei Jiten                      Fujitsu                           1993/11    CD
-New Horizon CD Learning System 2 2-nen                        Tokyo Shoseki                     1993/5     CD
-New Horizon CD Learning System 2 3-nen                        Tokyo Shoseki                     1993/5     CD
-New Horizon CD Running System 1-nen                           Tokyo Shoseki                     1990/7     SET(CD+FD)
-New Horizon CD Running System 2-nen                           Tokyo Shoseki                     1990/7     SET(CD+FD)
-New Horizon CD Running System 2-nen                           Tokyo Shoseki                     1991/1     SET(CD+FD)
+New Horizon CD Learning System 1-nen                          Tokyo Shoseki                     1990/7     SET(CD+FD)
+New Horizon CD Learning System 2-nen                          Tokyo Shoseki                     1990/7     SET(CD+FD)
+New Horizon CD Learning System 2-nen                          Tokyo Shoseki                     1991/1     SET(CD+FD)
 NHK Jissen Eikaiwa Part 2                                     CRC Sougou Kenkyuusho             1993/12    CD
 Nihon Kiin no Jouseki Daijiten                                Misawa Home Sougou Kenkyuusho     1992/7     CD
 Nihon no Chou (Marty-compatible)                              Fujitsu Social Science Laboratory 1993/3     CD
@@ -457,7 +450,6 @@ User/save disks that can be created from the game itself are not included.
 <!-- OS & System Disks -->
 
 
-	<!-- These Debian CDs probably also work on IBM-compatible PCs -->
 	<software name="debian13" supported="no">
 		<!--
 		Origin: Tokugawa Corporate Forums (akira_2020)
@@ -467,6 +459,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Debian GNU/Linux 1.3.1 with Debian-JP Packages</description>
 		<year>1997</year>
 		<publisher>Laser 5</publisher>
+		<notes>These Debian CDs probably also work on IBM-compatible PCs</notes>
 		<part name="cdrom1" interface="fmt_cdrom">
 			<feature name="part_id" value="Disk 1 (Binary)" />
 			<diskarea name="cdrom">
@@ -518,7 +511,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- Fails to boot -->
 	<software name="linuxje" supported="no">
 		<!--
 		 Origin: redump.org
@@ -528,6 +520,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Nihongo Linux + JE</description>
 		<year>1993</year>
 		<publisher>Laser 5</publisher>
+		<notes>Fails to boot</notes>
 		<info name="alt_title" value="日本語Ｌｉｎｕｘ＋ＪＥ" />
 		<part name="cdrom" interface="fmt_cdrom">
 			<diskarea name="cdrom">
@@ -536,7 +529,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- Fails to boot -->
 	<software name="linuxje3" supported="no">
 		<!--
 		 Origin: redump.org
@@ -546,6 +538,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Nihongo Linux + JE3</description>
 		<year>1994</year>
 		<publisher>Laser 5</publisher>
+		<notes>Fails to boot</notes>
 		<info name="alt_title" value="日本語Ｌｉｎｕｘ＋ＪＥ３" />
 		<part name="cdrom" interface="fmt_cdrom">
 			<diskarea name="cdrom">
@@ -554,7 +547,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- Fails to boot -->
 	<software name="linuxje4" supported="no">
 		<!--
 		 Origin: Neo Kobe Collection
@@ -576,6 +568,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Linux + JE4 1995/12</description>
 		<year>1995</year>
 		<publisher>Laser 5</publisher>
+		<notes>Fails to boot</notes>
 		<part name="cdrom1" interface="fmt_cdrom">
 			<diskarea name="cdrom">
 				<disk name="[os] linux + je4 1995-12 (disc 1)" sha1="37d5984ed5ec2f4a3cae87ed616f619439b1972b" />
@@ -593,7 +586,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- This is a restore CD for the FM Towns II Fresh series. It contains images of the default HDD contents and the bundled DOS / Windows floppy disks. -->
 	<software name="mastercd">
 		<!--
 		Origin: redump.org
@@ -603,6 +595,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Master CD - Install Model-you</description>
 		<year>1994</year>
 		<publisher>富士通 (Fujitsu)</publisher>
+		<notes>This is a restore CD for the FM Towns II Fresh series. It contains images of the default HDD contents and the bundled DOS / Windows floppy disks.</notes>
 		<info name="alt_title" value="Ｍａｓｔｅｒ　ＣＤ　（インストールモデル用）" />
 		<info name="usage" value="Run DO.BAT from the command line" />
 		<part name="cdrom" interface="fmt_cdrom">
@@ -612,7 +605,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- This seems to be an updated version of the other master CD that includes more software -->
 	<software name="mastercd2">
 		<!--
 		Origin: redump.org
@@ -622,6 +614,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Master CD - Fresh Series-you</description>
 		<year>1994</year>
 		<publisher>富士通 (Fujitsu)</publisher>
+		<notes>This seems to be an updated version of mastercd that includes more software.</notes>
 		<info name="alt_title" value="Ｍａｓｔｅｒ　ＣＤ　（Ｆｒｅｓｈシリーズ用）" />
 		<info name="usage" value="Run DO.BAT from the command line" />
 		<part name="cdrom" interface="fmt_cdrom">
@@ -631,7 +624,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- This master CD is specifically for the HC, Fresh ES and Fresh ET models -->
 	<software name="mastercdi">
 		<!--
 		Origin: redump.org
@@ -641,6 +633,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Master CD - Fresh Series-you (Ichitarou Model)</description>
 		<year>1995</year>
 		<publisher>富士通 (Fujitsu)</publisher>
+		<notes>This master CD is specifically for the HC, Fresh ES and Fresh ET models</notes>
 		<info name="alt_title" value="Ｍａｓｔｅｒ　ＣＤ　（Ｆｒｅｓｈシリーズ用） （一太郎モデル）" />
 		<info name="usage" value="Run DO.BAT from the command line" />
 		<part name="cdrom" interface="fmt_cdrom">
@@ -650,11 +643,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!--
-	    The FMV-Towns is a series of IBM PC compatibles with a hardware-based Towns compatibility mode.
-	    It's possible to restore the HDD image but the system doesn't respond to keyboard inputs after the first boot,
-	    possibly because of hardware differences between the FMV-Towns and the "classic" models.
-	-->
 	<software name="mastercdv" supported="no">
 		<!--
 		Origin: redump.org
@@ -664,6 +652,11 @@ User/save disks that can be created from the game itself are not included.
 		<description>Master CD - FMV-Towns Series</description>
 		<year>1994</year>
 		<publisher>富士通 (Fujitsu)</publisher>
+		<notes><![CDATA[
+The FMV-Towns is a series of IBM PC compatibles with a hardware-based Towns compatibility mode.
+It's possible to restore the HDD image but the system doesn't respond to keyboard inputs after the first boot,
+possibly because of hardware differences between the FMV-Towns and the "classic" models.
+]]></notes>
 		<info name="alt_title" value="Ｍａｓｔｅｒ　ＣＤ　（ＦＭＶ‐ＴＯＷＮＳシリーズ）" />
 		<info name="usage" value="Run DO.BAT from the command line" />
 		<part name="cdrom" interface="fmt_cdrom">
@@ -985,7 +978,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- Only the 1.0L10 CD and the 1.0L20 floppy have been dumped. The installer fails to find some files, probably due to this mismatch. -->
 	<software name="win30" supported="no">
 		<!--
 		 Origin: redump.org (CD) / tenyuhuang (floppy)
@@ -1002,6 +994,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Nihongo Microsoft Windows V3.0 with Multimedia Extensions V1.0 L10</description>
 		<year>1992</year>
 		<publisher>富士通 (Fujitsu)</publisher>
+		<notes>Only the 1.0L10 CD and the 1.0L20 floppy have been dumped. The installer fails to find some files, probably due to this mismatch.</notes>
 		<info name="alt_title" value="日本語　Ｍｉｃｒｏｓｏｆｔ　Ｗｉｎｄｏｗｓ　Ｖ３．０　ｗｉｔｈ　Ｍｕｌｔｉｍｅｄｉａ　Ｅｘｔｅｎｓｉｏｎｓ　Ｖ１．０　Ｌ１０" />
 		<info name="serial" value="B276A500"/>
 		<info name="release" value="199211xx" />
@@ -1082,7 +1075,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- The "normal" setup disk doesn't seem to work correctly with MAME's CD emulation. The MX/MA disk works. -->
 	<software name="win31l10" cloneof="win31l12" supported="partial">
 		<!--
 		 Origin: redump.org (CD) / cyo.the.vile (floppy)
@@ -1099,6 +1091,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Microsoft Windows Version 3.1 L10</description>
 		<year>1993</year>
 		<publisher>富士通 (Fujitsu)</publisher>
+		<notes>The "normal" setup disk doesn't seem to work correctly with MAME's CD emulation. The MX/MA disk works.</notes>
 		<info name="serial" value="B276A520"/>
 		<info name="usage" value="Requires 4 MB RAM"/>
 		<part name="flop1" interface="floppy_3_5">
@@ -1390,7 +1383,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- Runs too fast -->
 	<software name="dualtarg" supported="partial">
 		<!--
 		Origin: redump.org
@@ -1410,6 +1402,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>The 4th Unit 3 - Dual Targets</description>
 		<year>1989</year>
 		<publisher>データウエスト (Data West)</publisher>
+		<notes>Runs too fast</notes>
 		<info name="serial" value="HMA-216"/>
 		<info name="release" value="198911xx" />
 		<part name="cdrom" interface="fmt_cdrom">
@@ -1877,7 +1870,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- Runs too fast -->
 	<software name="abel" supported="partial">
 		<!--
 		Origin: redump.org
@@ -1906,6 +1898,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Abel - Shin Mokushiroku Taisen</description>
 		<year>1995</year>
 		<publisher>ファミリーソフト (Family Soft)</publisher>
+		<notes>Runs too fast</notes>
 		<info name="serial" value="MTC-1137"/>
 		<info name="alt_title" value="ＡＢＥＬ 真・黙示録大戦" />
 		<info name="release" value="199511xx" />
@@ -1972,7 +1965,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- Runs too fast -->
 	<software name="aeternam" supported="partial">
 		<!--
 		Origin: redump.org
@@ -1996,6 +1988,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Aeternam</description>
 		<year>1993</year>
 		<publisher>富士通 (Fujitsu)</publisher>
+		<notes>Runs too fast</notes>
 		<info name="serial" value="HMD-205 / A2760370 / TSC270"/>
 		<info name="alt_title" value="エターナム" />
 		<info name="release" value="199303xx" />
@@ -2201,7 +2194,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- Due to a misprint, the floppy disks were physically labeled as "V2.1L11", but their internal version number is V1.2L11 -->
 	<software name="airwar1211" cloneof="airwar21">
 		<!--
 		Origin: redump.org (CD) / wiggy2k (floppy)
@@ -2212,6 +2204,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Air Warrior V1.2L11</description>
 		<year>1993</year>
 		<publisher>富士通 (Fujitsu)</publisher>
+		<notes>Due to a misprint, the floppy disks were physically labeled as "V2.1L11", but their internal version number is V1.2L11</notes>
 		<info name="serial" value="HMD-0109B"/>
 		<info name="usage" value="Requires 2 MB RAM"/>
 		<part name="flop1" interface="floppy_3_5">
@@ -2357,7 +2350,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- PC-9821 / Windows / FM Towns hybrid -->
 	<software name="alice3">
 		<!--
 		Origin: redump.org
@@ -2367,6 +2359,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Alice no Yakata 3 (1995-06-19)</description>
 		<year>1995</year>
 		<publisher>アリスソフト (AliceSoft)</publisher>
+		<notes>PC-9821 / Windows / FM Towns hybrid</notes>
 		<info name="serial" value="ALS-0012"/>
 		<info name="alt_title" value="アリスの館3" />
 		<info name="release" value="199506xx" />
@@ -2377,7 +2370,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- PC-9821 / Windows / FM Towns hybrid -->
 	<software name="alice3o" cloneof="alice3">
 		<!--
 		Origin: redump.org
@@ -2387,6 +2379,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Alice no Yakata 3 (1995-05-16)</description>
 		<year>1995</year>
 		<publisher>アリスソフト (AliceSoft)</publisher>
+		<notes>PC-9821 / Windows / FM Towns hybrid</notes>
 		<info name="serial" value="ALS-0012"/>
 		<info name="alt_title" value="アリスの館3" />
 		<info name="release" value="199506xx" />
@@ -2657,7 +2650,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- The floppy disk is bootable and the files are slightly newer than the CD, probably meant as a last-minute patch for the game -->
 	<software name="amarant3">
 		<!--
 		Origin: redump.org (CD) / akira_2020 (floppy)
@@ -2667,6 +2659,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Amaranth III</description>
 		<year>1994</year>
 		<publisher>風雅システム (Fuga System)</publisher>
+		<notes>The floppy disk is bootable and the files are slightly newer than the CD, probably meant as a last-minute patch for the game</notes>
 		<info name="serial" value="MTC-1111"/>
 		<info name="alt_title" value="アマランスIII" />
 		<info name="release" value="199411xx" />
@@ -2729,7 +2722,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- PC-9821 / FM Towns hybrid -->
 	<software name="angel">
 		<!--
 		Origin: redump.org (CD) / Neo Kobe Collection (floppy)
@@ -2749,6 +2741,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Angel</description>
 		<year>1993</year>
 		<publisher>カクテル・ソフト (Cocktail Soft)</publisher>
+		<notes>PC-9821 / FM Towns hybrid</notes>
 		<info name="serial" value="HME-214"/>
 		<info name="alt_title" value="エンジェル" />
 		<info name="release" value="199310xx" />
@@ -2765,7 +2758,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- Windows / PC-9801 / FM Towns hybrid -->
 	<software name="anghalo">
 		<!--
 		Origin: redump.org
@@ -2775,6 +2767,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Angel Halo</description>
 		<year>1996</year>
 		<publisher>アクティブ (Active)</publisher>
+		<notes>Windows / PC-9801 / FM Towns hybrid</notes>
 		<info name="serial" value="WIC-5371"/>
 		<info name="alt_title" value="エンジェル・ハイロウ" />
 		<info name="release" value="199610xx" />
@@ -2939,10 +2932,35 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!--
-	    This software was found as a loose disc included with a Marty console. It seems to be a catalog for an art rental service, but
-	    otherwise it's a complete mystery. More information would be welcome.
-	-->
+	<software name="arquelph">
+		<!--
+		Origin: redump.org
+		<rom name="Arquelphos (Japan) (Track 01).bin" size="12348000" crc="fe143313" sha1="0b09b5db49992c565026c0dae1cba19f5f96d150"/>
+		<rom name="Arquelphos (Japan) (Track 02).bin" size="45894576" crc="cf20a8d6" sha1="a0e17db8730b19f89cbe4f1f8860a9593af8feac"/>
+		<rom name="Arquelphos (Japan) (Track 03).bin" size="32556384" crc="266a58da" sha1="0bbe7eaff8abaac75d24b8fa6675c502dc394a04"/>
+		<rom name="Arquelphos (Japan) (Track 04).bin" size="24608976" crc="744672c4" sha1="bc2a624059a87a58d16cf436a93d597c28b6117f"/>
+		<rom name="Arquelphos (Japan) (Track 05).bin" size="26735184" crc="df6d6714" sha1="76d79cc7d5aaf7a99d200062260faf397c09bf57"/>
+		<rom name="Arquelphos (Japan) (Track 06).bin" size="21974736" crc="3886c34e" sha1="c6384f82afdce01a7bd0dcf354a0200026a208b5"/>
+		<rom name="Arquelphos (Japan) (Track 07).bin" size="21215040" crc="dc87ca7b" sha1="baf1d3d1851325c2fe8d7e8e1ae5850b52a45888"/>
+		<rom name="Arquelphos (Japan) (Track 08).bin" size="22567440" crc="6da1139c" sha1="d25c31cee364da6b000bf400b07460a24d8f8ccf"/>
+		<rom name="Arquelphos (Japan) (Track 09).bin" size="32297664" crc="1bf24c53" sha1="dfce3ef9de614e97a9c1f6bcecc3d6fc04f0e1b6"/>
+		<rom name="Arquelphos (Japan) (Track 10).bin" size="47529216" crc="18fdffbd" sha1="ccc34997e974f9feba179d921ce751f33de4f095"/>
+		<rom name="Arquelphos (Japan).cue" size="1135" crc="84eb3c33" sha1="12864c760e9661f12f2b9dc5fe456a78d5917984"/>
+		-->
+		<description>Arquelphos</description>
+		<year>1993</year>
+		<publisher>ディー・オー (D.O.)</publisher>
+		<info name="serial" value="HME-181 / MTC-1056"/>
+		<info name="alt_title" value="アルキルフォス" />
+		<info name="release" value="199307xx" />
+		<info name="usage" value="Requires 2 MB RAM"/>
+		<part name="cdrom" interface="fmt_cdrom">
+			<diskarea name="cdrom">
+				<disk name="arquelphos (japan)" sha1="be53947d056fadeb50c32922fb4cc45aa6a7753f" />
+			</diskarea>
+		</part>
+	</software>
+
 	<software name="arsrent">
 		<!--
 		Origin: redump.org
@@ -2952,6 +2970,10 @@ User/save disks that can be created from the game itself are not included.
 		<description>ARS Art RentaLease - Kaiga Fukugou Kensaku System</description>
 		<year>1993?</year>
 		<publisher>&lt;unknown&gt;</publisher>
+		<notes><![CDATA[
+This software was found as a loose disc included with a Marty console. It seems to be a catalog for an art rental service, but
+otherwise it's a complete mystery. More information would be welcome.
+]]></notes>
 		<info name="serial" value="HME-509"/>
 		<info name="alt_title" value="ＡＲＳ　アート・レンタリース　絵画複合検索システム" />
 		<info name="usage" value="Requires 2 MB RAM"/>
@@ -3154,7 +3176,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- Some graphics issues -->
 	<software name="ayayo123" supported="partial">
 		<!--
 		Origin: redump.org
@@ -3164,6 +3185,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Hatchake Ayayo-san 1-2-3</description>
 		<year>1993</year>
 		<publisher>ハード (Hard)</publisher>
+		<notes>Some graphics issues</notes>
 		<info name="serial" value="HMD-223 / MTC-1032"/>
 		<info name="alt_title" value="はっちゃけあやよさん 1-2-3" />
 		<info name="release" value="199307xx" />
@@ -3175,7 +3197,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- Text positioning issues -->
 	<software name="ayayo4" supported="partial">
 		<!--
 		Origin: redump.org
@@ -3196,6 +3217,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Hacchake Ayayo-san IV - Sexy Olympic / Ayayo's Live Affection</description>
 		<year>1993</year>
 		<publisher>ハード (Hard)</publisher>
+		<notes>Text positioning issues</notes>
 		<info name="serial" value="HME-215 / MTC-1065"/>
 		<info name="alt_title" value="はっちゃけあやよさんⅣ　～セクシー・オリンピック～" />
 		<info name="release" value="199302xx" />
@@ -3253,7 +3275,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- Runs too fast? -->
 	<software name="azure" supported="partial">
 		<!--
 		Origin: redump.org
@@ -3273,6 +3294,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Azure</description>
 		<year>1993</year>
 		<publisher>ファミリーソフト (Family Soft)</publisher>
+		<notes>Possibly runs too fast. Needs to be verified on real hardware.</notes>
 		<info name="serial" value="HMD-213"/>
 		<info name="alt_title" value="アジャ" />
 		<info name="release" value="199302xx" />
@@ -3284,7 +3306,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- PC-9821 / FM Towns hybrid -->
 	<software name="bacta12v">
 		<!--
 		Origin: redump.org
@@ -3297,6 +3318,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Bacta 1 &amp; 2 + Voice</description>
 		<year>1996</year>
 		<publisher>姫屋ソフト (Himeya Soft)</publisher>
+		<notes>PC-9821 / FM Towns hybrid</notes>
 		<info name="serial" value="HMS-00306"/>
 		<info name="release" value="199601xx" />
 		<info name="usage" value="Requires 2 MB RAM"/>
@@ -3589,7 +3611,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- Requires a MIDI interface, not currently emulated by MAME -->
 	<software name="bandkun" supported="no">
 		<!--
 		Origin: redump.org (CD) / al32gabby (floppy)
@@ -3611,6 +3632,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Band-kun</description>
 		<year>1991</year>
 		<publisher>光栄 (Koei)</publisher>
+		<notes>Requires a MIDI interface, not currently emulated by MAME</notes>
 		<info name="serial" value="HMB-222"/>
 		<info name="alt_title" value="バンドくん" />
 		<info name="release" value="199101xx" />
@@ -3711,7 +3733,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- PC-9801 / FM Towns hybrid -->
 	<software name="bellsav1">
 		<!--
 		Origin: redump.org
@@ -3721,6 +3742,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Bell's Avenue Vol. 1</description>
 		<year>1993</year>
 		<publisher>シグナワークス (Signa Works)</publisher>
+		<notes>PC-9801 / FM Towns hybrid</notes>
 		<info name="serial" value="MTC-1087 / WDM-120T"/>
 		<info name="alt_title" value="ベルズ・アベニュー Vol.1" />
 		<info name="release" value="199308xx" />
@@ -3732,7 +3754,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- PC-9801 / FM Towns hybrid -->
 	<software name="bellsav2">
 		<!--
 		Origin: redump.org
@@ -3742,6 +3763,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Bell's Avenue Vol. 2</description>
 		<year>1994</year>
 		<publisher>シグナワークス (Signa Works)</publisher>
+		<notes>PC-9801 / FM Towns hybrid</notes>
 		<info name="serial" value="MTC-1088 / WDM-301T"/>
 		<info name="alt_title" value="ベルズ・アベニュー Vol.2" />
 		<info name="release" value="199401xx" />
@@ -3753,7 +3775,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- PC-9801 / FM Towns hybrid -->
 	<software name="bellsav3">
 		<!--
 		Origin: redump.org
@@ -3765,6 +3786,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Bell's Avenue Vol. 3</description>
 		<year>1995</year>
 		<publisher>シグナワークス (Signa Works)</publisher>
+		<notes>PC-9801 / FM Towns hybrid</notes>
 		<info name="serial" value="WDM-302T"/>
 		<info name="alt_title" value="ベルズ・アベニュー Vol.3" />
 		<info name="release" value="199504xx" />
@@ -3886,7 +3908,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- Windows / Mac / FM Towns hybrid -->
 	<software name="birdland">
 		<!--
 		Origin: redump.org
@@ -3896,6 +3917,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Toshiyuki Yoshino - Lullaby of BirdLand</description>
 		<year>1994</year>
 		<publisher>インターリミテッドロジック (Inter Limited Logic)</publisher>
+		<notes>Windows / Mac / FM Towns hybrid</notes>
 		<info name="serial" value="ILL-941215"/>
 		<info name="alt_title" value="バードランドの子守唄" />
 		<info name="release" value="199412xx" />
@@ -3907,7 +3929,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- Visible area is cut off -->
 	<software name="blandia" supported="partial">
 		<!--
 		Origin: redump.org
@@ -3980,6 +4001,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Blandia</description>
 		<year>1994</year>
 		<publisher>ビング (Ving)</publisher>
+		<notes>Visible area is cut off</notes>
 		<info name="serial" value="HMF-126"/>
 		<info name="alt_title" value="ブランディア" />
 		<info name="release" value="199409xx" />
@@ -4600,7 +4622,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- Works only on the FM Towns Marty. Probably an emulation bug (the Marty didn't even exist in 1991), but it needs to be confirmed on real hardware. -->
 	<software name="chasehqd" cloneof="chasehq" supported="partial">
 		<!--
 		Origin: redump.org
@@ -4628,6 +4649,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Taito Chase H.Q. (demo)</description>
 		<year>1991</year>
 		<publisher>ビング (Ving)</publisher>
+		<notes>Works only on the FM Towns Marty. Probably an emulation bug (the Marty didn't even exist in 1991), but it needs to be confirmed on real hardware.</notes>
 		<info name="serial" value="HMC-919"/>
 		<info name="alt_title" value="TAITO チェイスＨＱ" />
 		<info name="release" value="1991xxxx" />
@@ -4869,7 +4891,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- Windows / FM Towns hybrid -->
 	<software name="confgrom">
 		<!--
 		Origin: private dump (beanstalk)
@@ -4879,6 +4900,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>CONFIG-ROM</description>
 		<year>1996</year>
 		<publisher>グラムス (Glams)</publisher>
+		<notes>Windows / FM Towns hybrid</notes>
 		<info name="serial" value="GLA-01488"/>
 		<info name="usage" value="Requires TownsOS V2.1, 8 MB RAM and a 486 CPU"/>
 		<part name="cdrom" interface="fmt_cdrom">
@@ -4888,7 +4910,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- Missing a floppy disk -->
 	<software name="crayonag" supported="no">
 		<!--
 		Origin: redump.org
@@ -4898,6 +4919,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Crayonnage</description>
 		<year>1991</year>
 		<publisher>CRI</publisher>
+		<notes>Missing a floppy disk</notes>
 		<info name="serial" value="HMB-203"/>
 		<info name="alt_title" value="クレヨナージュ" />
 		<info name="release" value="199108xx" />
@@ -4926,7 +4948,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- The CD is self-bootable, but the floppy disk contains an updated version of the executable file -->
 	<software name="crystalr">
 		<!--
 		Origin: redump.org (CD) / cherokee (floppy)
@@ -4954,6 +4975,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Crystal Rinal - Ouma no Meikyuu</description>
 		<year>1994</year>
 		<publisher>ディー・オー (D.O.)</publisher>
+		<notes>The CD is self-bootable, but the floppy disk contains an updated version of the executable file</notes>
 		<info name="serial" value="2TD-3016"/>
 		<info name="alt_title" value="クリスタルリナール －逢魔の迷宮－" />
 		<info name="release" value="199408xx" />
@@ -5189,7 +5211,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- Hangs at name entry -->
 	<software name="cyberia" supported="no">
 		<!--
 		Origin: redump.org
@@ -5199,6 +5220,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Cyberia</description>
 		<year>1995</year>
 		<publisher>富士通 (Fujitsu)</publisher>
+		<notes>Hangs at name entry</notes>
 		<info name="serial" value="HMF-205 / A2760620 / TSC530"/>
 		<info name="alt_title" value="サイベリア" />
 		<info name="release" value="199505xx" />
@@ -5210,7 +5232,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- Doesn't work on any hardware configuration. The main executable just exits without any errors. -->
 	<software name="cybrmotn" supported="no">
 		<!--
 		Origin: redump.org
@@ -5220,6 +5241,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Cyber Motion V1.0</description>
 		<year>1993</year>
 		<publisher>富士通 (Fujitsu)</publisher>
+		<notes>Doesn't work on any hardware configuration. The main executable just exits without any errors.</notes>
 		<info name="serial" value="HMD-194"/>
 		<info name="alt_title" value="サイバー・モーションＶ１．０" />
 		<info name="release" value="199303xx" />
@@ -5277,7 +5299,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- Windows / PC-9801 / FM Towns hybrid -->
 	<software name="dpszenbu">
 		<!--
 		Origin: redump.org
@@ -5292,6 +5313,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>D.P.S. Zenbu</description>
 		<year>1995</year>
 		<publisher>アリスソフト (AliceSoft)</publisher>
+		<notes>Windows / PC-9801 / FM Towns hybrid</notes>
 		<info name="serial" value="ALS-0014"/>
 		<info name="alt_title" value="DPS全部" />
 		<info name="usage" value="Requires 2 MB RAM"/>
@@ -5538,7 +5560,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- Windows / PC-9821 / FM Towns hybrid -->
 	<software name="dapsdemo">
 		<!--
 		Origin: redump.org
@@ -5548,6 +5569,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>DAPS for Windows</description>
 		<year>1994</year>
 		<publisher>データウエスト (Data West)</publisher>
+		<notes>Windows / PC-9821 / FM Towns hybrid</notes>
 		<info name="serial" value="DWWI4920"/>
 		<info name="usage" value="Requires 3 MB RAM. Make a bootable TownsOS 2.1 floppy disk, copy the files from the TOWNS directory in the CD to it, and boot from it."/>
 		<part name="cdrom" interface="fmt_cdrom">
@@ -5557,7 +5579,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- PC-9821 / FM Towns hybrid -->
 	<software name="defana">
 		<!--
 		Origin: redump.org
@@ -5579,6 +5600,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>De.FaNa</description>
 		<year>1995</year>
 		<publisher>姫屋ソフト (Himeya Soft)</publisher>
+		<notes>PC-9821 / FM Towns hybrid</notes>
 		<info name="serial" value="HMS-00269"/>
 		<info name="alt_title" value="デ・ファーナ" />
 		<info name="release" value="199511xx" />
@@ -6011,7 +6033,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- PC-9801 / FM Towns hybrid -->
 	<software name="dreamy">
 		<!--
 		Origin: redump.org
@@ -6021,6 +6042,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Yumeutsutsu - Dreamy</description>
 		<year>1992</year>
 		<publisher>Megami</publisher>
+		<notes>PC-9801 / FM Towns hybrid</notes>
 		<info name="serial" value="2TD-3017"/>
 		<info name="alt_title" value="夢現　－Ｄｒｅａｍｙ－" />
 		<info name="release" value="199205xx" />
@@ -6081,7 +6103,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- PC-9821 / FM Towns hybrid -->
 	<software name="desire">
 		<!--
 		Origin: redump.org
@@ -6096,6 +6117,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Desire - Haitoku no Rasen</description>
 		<year>1994</year>
 		<publisher>シーズウェア (C's Ware)</publisher>
+		<notes>PC-9821 / FM Towns hybrid</notes>
 		<info name="serial" value="CSW-0001"/>
 		<info name="alt_title" value="デザイア 背徳の螺旋" />
 		<info name="release" value="199411xx" />
@@ -6214,7 +6236,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- PC-9821 / FM Towns hybrid -->
 	<software name="dokidok1">
 		<!--
 		Origin: redump.org
@@ -6234,6 +6255,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Doki Doki Disk CD-ban Dai-1-kan - Club D.O. Jimukyoku</description>
 		<year>1994</year>
 		<publisher>ディー・オー (D.O.)</publisher>
+		<notes>PC-9821 / FM Towns hybrid</notes>
 		<info name="serial" value="HMF-130 / 2TD-3012"/>
 		<info name="alt_title" value="どきどきディスクＣＤ版　第１巻　クラブＤ．Ｏ．事務局" />
 		<info name="usage" value="Requires 2 MB RAM"/>
@@ -6244,7 +6266,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- PC-9821 / FM Towns hybrid -->
 	<software name="dokidok2">
 		<!--
 		Origin: redump.org
@@ -6261,6 +6282,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Doki Doki Disk CD-ban - Club D.O. Vol. 2</description>
 		<year>1994</year>
 		<publisher>ディー・オー (D.O.)</publisher>
+		<notes>PC-9821 / FM Towns hybrid</notes>
 		<info name="serial" value="DCD-0004"/>
 		<info name="alt_title" value="どきどきディスクＣＤ版　Ｃｌｕｂ　Ｄ．Ｏ．　ｖｏｌ．２" />
 		<info name="usage" value="Requires 2 MB RAM"/>
@@ -6271,7 +6293,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- PC-9821 / Windows / FM Towns hybrid -->
 	<software name="dokidok3">
 		<!--
 		Origin: redump.org
@@ -6281,6 +6302,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Doki Doki Disk CD-ban - Club D.O. Vol. 3</description>
 		<year>1995</year>
 		<publisher>ディー・オー (D.O.)</publisher>
+		<notes>PC-9821 / Windows / FM Towns hybrid</notes>
 		<info name="alt_title" value="どきどきディスクＣＤ版　Ｃｌｕｂ　Ｄ．Ｏ．　ｖｏｌ．３" />
 		<info name="usage" value="Requires 2 MB RAM"/>
 		<part name="cdrom" interface="fmt_cdrom">
@@ -6623,7 +6645,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Dragons of Flame</description>
 		<year>1992</year>
 		<publisher>ポニーキャニオン (Pony Canyon)</publisher>
-		<info name="serial" value="HMC-195"/>
+		<info name="serial" value="HMC-195 / K98B5138"/>
 		<info name="alt_title" value="ドラゴン・オブ・フレイム" />
 		<info name="release" value="199201xx" />
 		<info name="usage" value="Requires 2 MB RAM"/>
@@ -6873,7 +6895,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- Missing a floppy disk and the second CD -->
 	<software name="dyneng2b" supported="no">
 		<!--
 		Origin: redump.org
@@ -6884,6 +6905,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Dynamic English 2 - Basic</description>
 		<year>1991</year>
 		<publisher>ダインエドジャパン (DynEd Japan)</publisher>
+		<notes>Missing a floppy disk and the second CD</notes>
 		<info name="serial" value="CDAC 008000"/>
 		<info name="alt_title" value="ダイナミック　イングリッシュ　２　（基礎）" />
 		<info name="release" value="199107xx" />
@@ -6895,7 +6917,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- Missing the second CD -->
 	<software name="dyneng3ub" supported="partial">
 		<!--
 		Origin: redump.org (CD) / cyo.the.vile (floppy)
@@ -6906,6 +6927,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Dynamic English 3 - Upper Basic</description>
 		<year>1991</year>
 		<publisher>ダインエドジャパン (DynEd Japan)</publisher>
+		<notes>Missing the second CD</notes>
 		<info name="serial" value="FDE-34 / CDAC 009701"/>
 		<info name="alt_title" value="ダイナミック　イングリッシュ　３　（上級基礎）" />
 		<info name="release" value="199110xx" />
@@ -7605,7 +7627,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- The CD is self-bootable, but the floppy disk contains an updated version of the executable file -->
 	<software name="engerrn2">
 		<!--
 		Origin: redump.org (CD) / wiggy2k (floppy)
@@ -7615,6 +7636,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Engage Errands II - Hikari o Ninau Mono</description>
 		<year>1995</year>
 		<publisher>ポニーテールソフト (Ponytail Soft)</publisher>
+		<notes>The CD is self-bootable, but the floppy disk contains an updated version of the executable file</notes>
 		<info name="alt_title" value="エンゲージ・エランズⅡ　～光輝を担うもの～" /> <!-- ひかり is written in furigana above 光輝 -->
 		<info name="release" value="199505xx" />
 		<info name="usage" value="Requires 2 MB RAM"/>
@@ -7951,7 +7973,6 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
-	<!-- Requires a MIDI interface, not currently emulated by MAME -->
 	<software name="eup2mtr" supported="no">
 		<!--
 		Origin: redump.org
@@ -7961,6 +7982,7 @@ User/save disks that can be created from the game itself are not included.
 		<description>Euphony II / MTR V1.1 L20</description>
 		<year>1992</year>
 		<publisher>富士通 (Fujitsu)</publisher>
+		<notes>Requires a MIDI interface, not currently emulated by MAME</notes>
 		<info name="serial" value="B276E020"/>
 		<info name="release" value="199211xx" />
 		<info name="usage" value="Requires a MIDI interface and 2 MB RAM"/>
@@ -8682,6 +8704,36 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
+	<software name="fbc2120">
+		<!--
+		 Origin: redump.org
+		<rom name="F-BASIC386 Compiler V2.1 L20 (Japan) (Track 01).bin" size="263894400" crc="ecc88cb8" sha1="8b7bca2b4244985069c405a6322f2c72581566a4"/>
+		<rom name="F-BASIC386 Compiler V2.1 L20 (Japan) (Track 02).bin" size="41729184" crc="dfdf5c43" sha1="07c632f89506d3a543ea3fcbfa22a49bd43961ee"/>
+		<rom name="F-BASIC386 Compiler V2.1 L20 (Japan) (Track 03).bin" size="15059856" crc="cb66c765" sha1="628f7b773a50a0b9b9011dc8602d8e12436da3fa"/>
+		<rom name="F-BASIC386 Compiler V2.1 L20 (Japan) (Track 04).bin" size="24166800" crc="bd9213bc" sha1="006c5fcd90adff06b677b98017c4a69ef464b6de"/>
+		<rom name="F-BASIC386 Compiler V2.1 L20 (Japan) (Track 05).bin" size="37330944" crc="5debd853" sha1="23d9e5395780a406cfe3e20210d553d1cf0f7064"/>
+		<rom name="F-BASIC386 Compiler V2.1 L20 (Japan) (Track 06).bin" size="9085776" crc="5e39e97a" sha1="72c227ba97d353aefba2431ac8a93c3b4915bebd"/>
+		<rom name="F-BASIC386 Compiler V2.1 L20 (Japan) (Track 07).bin" size="5491920" crc="5500d74a" sha1="7274dbf63d2db90579f79f1fadb8a6a7977ae76d"/>
+		<rom name="F-BASIC386 Compiler V2.1 L20 (Japan) (Track 08).bin" size="5120304" crc="34a73d87" sha1="2a1cc41bf6b7f528efd77e38b539ea3f5e305780"/>
+		<rom name="F-BASIC386 Compiler V2.1 L20 (Japan) (Track 09).bin" size="9478560" crc="547491a0" sha1="acaa5f1933d0cd48f9270520092110d13ae3a80b"/>
+		<rom name="F-BASIC386 Compiler V2.1 L20 (Japan) (Track 10).bin" size="4793376" crc="e20371ea" sha1="55af96c06a9dad5c0d77caa8eb8705d3f90cb945"/>
+		<rom name="F-BASIC386 Compiler V2.1 L20 (Japan) (Track 11).bin" size="16793280" crc="173b15bf" sha1="743c367f69136fb6e84c459dbce4d66cae7ca2ea"/>
+		<rom name="F-BASIC386 Compiler V2.1 L20 (Japan) (Track 12).bin" size="34720224" crc="b51a094d" sha1="bd08476b38823cefc6aa5edcaa07c42ebc889fa5"/>
+		<rom name="F-BASIC386 Compiler V2.1 L20 (Japan) (Track 13).bin" size="20963376" crc="9e09fe32" sha1="2f63b84a1728104ebe2e2dae3b101c96b05a0279"/>
+		<rom name="F-BASIC386 Compiler V2.1 L20 (Japan).cue" size="1685" crc="6227b8b7" sha1="7c10d83df5af8a82533c2b4f4bc1d02786494749"/>
+		 -->
+		<description>F-BASIC386 Compiler v2.1 L20</description>
+		<year>1994</year>
+		<publisher>富士通 (Fujitsu)</publisher>
+		<info name="serial" value="B276C021"/>
+		<info name="usage" value="Requires 2 MB RAM"/>
+		<part name="cdrom" interface="fmt_cdrom">
+			<diskarea name="cdrom">
+				<disk name="f-basic386 compiler v2.1 l20 (japan)" sha1="75fc3656b6764d49ad00dd1f6a4fc356bf880136" />
+			</diskarea>
+		</part>
+	</software>
+
 	<software name="finalb">
 		<!--
 		Origin: redump.org
@@ -8860,6 +8912,26 @@ User/save disks that can be created from the game itself are not included.
 		<part name="cdrom" interface="fmt_cdrom">
 			<diskarea name="cdrom">
 				<disk name="fm towns application catalog cd-rom - original soft-hen (japan)" sha1="071d7090c1295d610cd9518bd547ab07f6c73ff5" />
+			</diskarea>
+		</part>
+	</software>
+
+	<software name="fmtappjs">
+		<!--
+		Origin: redump.org
+		<rom name="FM Towns Appli Jikkou Set (TownsGEAR, F-BASIC386) V2.1 L20 (Japan).bin" size="62269200" crc="8d197f34" sha1="65b3fbb01677e9dbd839cf1091818d725cdd8d58"/>
+		<rom name="FM Towns Appli Jikkou Set (TownsGEAR, F-BASIC386) V2.1 L20 (Japan).cue" size="132" crc="4a98ceed" sha1="c673681ed88559b4c3cb537b3abc2bbf8b64c16d"/>
+		-->
+		<description>FM Towns Appli Jikkou Set (TownsGEAR, F-BASIC386) V2.1 L20</description>
+		<year>1983</year>
+		<publisher>富士通 (Fujitsu)</publisher>
+		<info name="serial" value="B276M010"/>
+		<info name="alt_title" value="ＦＭ　ＴＯＷＮＳ　アプリ実行セット（ＴｏｗｎｓＧＥＡＲ，Ｆ‐ＢＡＳＩＣ３８６）Ｖ２．１Ｌ２０" />
+		<info name="release" value="199306xx" />
+		<info name="usage" value="Intended to be used with the FM Towns Marty to run software dependent on TownsGEAR or F-BASIC without a mouse, though it works on the computer models too"/>
+		<part name="cdrom" interface="fmt_cdrom">
+			<diskarea name="cdrom">
+				<disk name="fm towns appli jikkou set (townsgear, f-basic386) v2.1 l20 (japan)" sha1="e4d85937887ad605b1d4614db14308fc73deb6c3" />
 			</diskarea>
 		</part>
 	</software>
@@ -9428,11 +9500,18 @@ User/save disks that can be created from the game itself are not included.
 
 	<software name="fshark">
 		<!--
-		Origin: Neo Kobe Collection
-		<rom name="Hishouzame.ccd" size="2540" crc="d022c37d" sha1="0a685e7969c98abd27f05d6028a62ff45a5f90ce"/>
-		<rom name="Hishouzame.cue" size="466" crc="2978eaa2" sha1="d2d182a4560a6372c3b4ff16d07de6fa57b4b423"/>
-		<rom name="Hishouzame.img" size="315948864" crc="604f9205" sha1="b5a88d02c35cf660a2cc0d99d3ff918a1582d213"/>
-		<rom name="Hishouzame.sub" size="12895872" crc="b246ed6d" sha1="7b8ef1c9515fb0ba1282da6dba17eeade2cb9b1c"/>
+		Origin: redump.org
+		<rom name="Hishouzame - Flying Shark (Japan) (Track 01).bin" size="10231200" crc="b4815477" sha1="c439a005d9d4e97402eb063dfcd7e5a6c48ae8e6"/>
+		<rom name="Hishouzame - Flying Shark (Japan) (Track 02).bin" size="4885104" crc="f180754f" sha1="f871d783bfb75a5f9a98e2da9983a8e180829994"/>
+		<rom name="Hishouzame - Flying Shark (Japan) (Track 03).bin" size="53802000" crc="b39e8551" sha1="d1505743334744c4ae91f8a4510f07a97ac28616"/>
+		<rom name="Hishouzame - Flying Shark (Japan) (Track 04).bin" size="52049760" crc="1691df08" sha1="6e44e6826b365c65bbc220130ff81faa72bbddab"/>
+		<rom name="Hishouzame - Flying Shark (Japan) (Track 05).bin" size="52825920" crc="2d154240" sha1="9a553f00323e0666963c50795e094c5f7e178355"/>
+		<rom name="Hishouzame - Flying Shark (Japan) (Track 06).bin" size="56412720" crc="079283b0" sha1="e4523d5d230c3419d1e8bb6064101bf71c43dee2"/>
+		<rom name="Hishouzame - Flying Shark (Japan) (Track 07).bin" size="64879920" crc="9c49fd97" sha1="127736953c1751a83629fe646800e9338fb38a4b"/>
+		<rom name="Hishouzame - Flying Shark (Japan) (Track 08).bin" size="6844320" crc="08c2fdb8" sha1="b441224496125affca217c610d61d554b0d4e93d"/>
+		<rom name="Hishouzame - Flying Shark (Japan) (Track 09).bin" size="3363360" crc="df844bd8" sha1="e4f9b11ff457b55f194dfc540303607efb0a8a8c"/>
+		<rom name="Hishouzame - Flying Shark (Japan) (Track 10).bin" size="10654560" crc="64ccacb2" sha1="04cdbf1224095d32b1ffa09c9199da835fd2c51b"/>
+		<rom name="Hishouzame - Flying Shark (Japan).cue" size="1262" crc="ba89752b" sha1="12aad3947623e518090cca4fb635ed1077219552"/>
 		-->
 		<description>Hishouzame / Flying Shark</description>
 		<year>1993</year>
@@ -9443,7 +9522,7 @@ User/save disks that can be created from the game itself are not included.
 		<info name="usage" value="Requires 2 MB RAM"/>
 		<part name="cdrom" interface="fmt_cdrom">
 			<diskarea name="cdrom">
-				<disk name="hishouzame" sha1="4704726801f67e1cd09ba1f7475985036edff19c" />
+				<disk name="hishouzame - flying shark (japan)" sha1="c56c61dfe9e0a3fff58b54aa2158363950235d31" />
 			</diskarea>
 		</part>
 	</software>
@@ -11262,6 +11341,26 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
+	<software name="herolanc">
+		<!--
+		Origin: redump.org
+		<rom name="Heroes of the Lance (Japan) (En,Ja).bin" size="6698496" crc="b4fb7f62" sha1="ed9ed92f74bc78fc01aca78381027e5424f72e39"/>
+		<rom name="Heroes of the Lance (Japan) (En,Ja).cue" size="101" crc="927dee57" sha1="3f242e6c26f912029870c8e503994f41718dcff8"/>
+		-->
+		<description>Heroes of the Lance</description>
+		<year>1990</year>
+		<publisher>ポニーキャニオン (Pony Canyon)</publisher>
+		<info name="serial" value="HMB-158 / K98B5127"/>
+		<info name="alt_title" value="ヒーロー・オブ・ランス" />
+		<info name="release" value="199006xx" />
+		<info name="usage" value="Requires 2 MB RAM"/>
+		<part name="cdrom" interface="fmt_cdrom">
+			<diskarea name="cdrom">
+				<disk name="heroes of the lance (japan) (en,ja)" sha1="50bb7035f4c8e6160ba3338e1020a80ca7e2ab52" />
+			</diskarea>
+		</part>
+	</software>
+
 	<software name="hcc1713">
 		<!--
 		Origin: redump.org
@@ -11350,6 +11449,59 @@ User/save disks that can be created from the game itself are not included.
 		<part name="cdrom" interface="fmt_cdrom">
 			<diskarea name="cdrom">
 				<disk name="heike monogatari (joukan) (japan)" sha1="a85967c9e8338ecccc4bb23aa1eb84bf4af7b8b3" />
+			</diskarea>
+		</part>
+	</software>
+
+	<software name="heike1a" cloneof="heike1">
+		<!--
+		Origin: redump.org
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 01).bin" size="31399200" crc="d62218aa" sha1="44bdc084f430eeb1cf741b837fe6376a2bac9d3e"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 02).bin" size="12731376" crc="fb93789e" sha1="185c47423ebc06d92d68b9fc6c40ed7bfb231406"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 03).bin" size="23261280" crc="dae50a17" sha1="307facf273b3f41143992cd57da3792721e74520"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 04).bin" size="24218544" crc="1a500ddb" sha1="f94d597934ec821a470954034f80fd83bfdc52b9"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 05).bin" size="31053456" crc="00877cef" sha1="0f12b45ca5fd8d1fdfbf0c63b5165e9cdba817c2"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 06).bin" size="15318576" crc="e4deb330" sha1="956398afeb622fb426f7c55e57eb80b4610f7b3d"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 07).bin" size="31055808" crc="774ace82" sha1="b467e6244b9156d649ce5317611238b226a06541"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 08).bin" size="15163344" crc="ab156078" sha1="a36acc0f3fad761ae72421dfe0744123dcc2066a"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 09).bin" size="32982096" crc="3bfa3913" sha1="80d84db44dd2ab400e9e646b3d1bab745fae648e"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 10).bin" size="24185616" crc="1c69d316" sha1="89c2038e2d52d51e7dcaef158c20a448906f3172"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 11).bin" size="22054704" crc="486b1040" sha1="4c8356f708ebdffa210b4cbc9234a2dc8f100717"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 12).bin" size="22021776" crc="81ac17e1" sha1="97f77001baab1b941e1462fdb31caa3e99c02423"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 13).bin" size="31062864" crc="8516386a" sha1="86a70d21ea2d35fe5b95e8db1c52c4614c5f21dc"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 14).bin" size="26285952" crc="caec09ad" sha1="27066cee699c7839cf4e095b8cfc248d69061975"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 15).bin" size="8076768" crc="94dc1eff" sha1="aa734225df1aba1656b5c0475e584422ccb7beef"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 16).bin" size="22804992" crc="313d060e" sha1="d45d89915e0d5894d0795f128d1d4817b2f2db64"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 17).bin" size="16346400" crc="6cc8b731" sha1="e5296b929ec277fd570f366daebffd0b5113efac"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 18).bin" size="14998704" crc="461bb9dc" sha1="f1d44fa995fc302d762640c8035d255036faa141"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 19).bin" size="28623840" crc="2c09d61f" sha1="dc352caafe3714191bfb752a7d4cb98addae8984"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 20).bin" size="20768160" crc="f66780d3" sha1="0980d37ecc7d9a83566d3afcd1ffe92abe5862d1"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 21).bin" size="31406256" crc="0dee5725" sha1="c822cdac3b3cb5e8cf2dc1d714645f91d17dc164"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 22).bin" size="17484768" crc="89fe8942" sha1="c265ab76897b7e5a1f8eebb25ad2849b6b14f9e0"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 23).bin" size="29461152" crc="774cd696" sha1="024b90ae2d3d7e76e75ec997f4a54db73010d4c6"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 24).bin" size="28906080" crc="e3f50c2e" sha1="151e6bea815f0c8de238f4697b9915c0bbc23b80"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 25).bin" size="25272240" crc="efa97112" sha1="f8b5081cde87b31f921bd552872ae300daa1f0e2"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 26).bin" size="16593360" crc="231f8708" sha1="175bc34f7aa9f5d3ee1febb3f34f074f4756a866"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 27).bin" size="16332288" crc="35c5e0e1" sha1="78a70b07ad5428bcbb42ae1fc1b404acbcba8bab"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 28).bin" size="30183216" crc="ced9f03b" sha1="a8cedd14532afd9891b1ea2ab156ac99fa57adf2"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 29).bin" size="9377424" crc="87bb0247" sha1="8de25d3874e73acfea4d939ef3b93975a5019288"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 30).bin" size="14770560" crc="1d33b144" sha1="3f3881d6710d87d7385212f47abf01ccefb3fa4c"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 31).bin" size="4123056" crc="12edc8b4" sha1="ace2c3eb9822ccd2752c143f4039e4c7b56c8a14"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 32).bin" size="4186560" crc="4cb36324" sha1="859373d49c4960906fdae02d6f77824993012c79"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 33).bin" size="4602864" crc="17183c7e" sha1="7f92986af50c3256e83438e1e6b62274ced786d3"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 34).bin" size="4217136" crc="6c7f299e" sha1="132111f3ab4dd30d7db9629afde2e3d94ad137f9"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 35).bin" size="4391184" crc="5cbdd965" sha1="2fcc743d6a75a9ce9a062cdd9a86057af7f29f40"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease).cue" size="4905" crc="daf1b18c" sha1="5bc8bcf940367767822dd956e503691cc0e10768"/>
+		-->
+		<description>Heike Monogatari (Joukan) (rerelease)</description>
+		<year>1992</year>
+		<publisher>CRI</publisher>
+		<info name="serial" value="HMC-148 / MTC-1073"/>
+		<info name="alt_title" value="平家物語（上巻）" />
+		<info name="release" value="199202xx" />
+		<part name="cdrom" interface="fmt_cdrom">
+			<diskarea name="cdrom">
+				<disk name="heike monogatari (joukan) (japan) (rerelease)" sha1="a31831bcd17f24b70fd0d2c11502c425d8b88ee0" />
 			</diskarea>
 		</part>
 	</software>
@@ -18718,6 +18870,27 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
+	<software name="musicpro13m" supported="partial">
+		<!--
+		Origin: redump.org
+		<rom name="Music Pro-Towns v1.3 (MIDI Ongenban) (Japan).bin" size="29056608" crc="7bcb9049" sha1="9005e763b85699d3d18c47fc867251a487703b97"/>
+		<rom name="Music Pro-Towns v1.3 (MIDI Ongenban) (Japan).cue" size="110" crc="2a26e15b" sha1="9743e7fc687ddcc16b0dfa5df71cc41e7bb592f3"/>
+		-->
+		<description>Music Pro-Towns v1.3 (MIDI Ongenban)</description>
+		<year>1995</year>
+		<publisher>Musical Plan</publisher>
+		<notes>The MIDI version requires a MIDI interface card (FMT-401/402/403) or a RS-232 to MIDI adapter, which are not currently emulated by MAME.</notes>
+		<info name="serial" value="MTC-1118"/>
+		<info name="alt_title" value="ミュージック・プロｖ１．３ ＦＭ　ＴＯＷＮＳ／ＭＩＤＩ音源版" /> <!-- Both titles are used interchangeably throughout the program and the documentation -->
+		<info name="release" value="199502xx" />
+		<info name="usage" value="Requires 2 MB RAM. Includes both the internal sound version and the MIDI version. MIDI version requires a MIDI interface card or a RS-232 to MIDI adapter." />
+		<part name="cdrom" interface="fmt_cdrom">
+			<diskarea name="cdrom">
+				<disk name="music pro-towns v1.3 (midi ongenban) (japan)" sha1="6610dd1cb2c7c7d6736fd695c085c2b726eff191" />
+			</diskarea>
+		</part>
+	</software>
+
 	<software name="mustowns">
 		<!--
 		Origin: redump.org
@@ -19694,6 +19867,62 @@ User/save disks that can be created from the game itself are not included.
 		<part name="cdrom" interface="fmt_cdrom">
 			<diskarea name="cdrom">
 				<disk name="cd learning system ii - new horizon english course 2 (japan)" sha1="892e92424ebfa48e6dd135c07d5d67de3a58bd6d" />
+			</diskarea>
+		</part>
+	</software>
+
+	<software name="nhorz2e3m">
+		<!--
+		Origin: redump.org
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 01).bin" size="10231200" crc="bc566918" sha1="0ed82dbb14143da7de859acb5197ba6da600f695"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 02).bin" size="4445280" crc="095327f0" sha1="a3bc91cf4bece34f750e15d5e7644cf2b0bb9217"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 03).bin" size="22214640" crc="729ccbb5" sha1="954521fba75ac7c6b8e479062f72301ec3f98e5e"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 04).bin" size="22807344" crc="454aae70" sha1="916ef7d0df2b1cd6ae4c9ed55c47bf8fa5c29c4b"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 05).bin" size="22104096" crc="ee59f14e" sha1="36afe76c86af7e0fed27dd80a10ac0b98c64977a"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 06).bin" size="8431920" crc="54be896a" sha1="4b40e7f9aa36b43b48fcfde3c9f9814b4e5d36bd"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 07).bin" size="25476864" crc="09ce2110" sha1="ce6d5bfd3ef76e2a6752d954bd7005ad6d20ab46"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 08).bin" size="39050256" crc="01148fcd" sha1="01c2de6b156bc05a1d1a6a23f38357ce2457e53e"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 09).bin" size="5668320" crc="74be4da7" sha1="763f107a1c246554c94dfd36fb60ffed90366009"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 10).bin" size="20956320" crc="b3ea3a48" sha1="65ece3cd93b66ae7c5bc06038ea05e90aa81dba2"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 11).bin" size="43417920" crc="1deb5803" sha1="cceb427a6077cf8bcfd5e145ac8a60a1b14bab23"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 12).bin" size="35555184" crc="63b34bbe" sha1="53e242e408847aa35637ca8949f1faa658e3cb74"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 13).bin" size="8408400" crc="e3180c38" sha1="fb24be17c84a4eb469480598e9a7b0b5069209c4"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 14).bin" size="6839616" crc="a4882d01" sha1="b40a710a6d596c838e4abdab22322b4363117526"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 15).bin" size="18710160" crc="71b990a8" sha1="f2ccaabb2889f22f009b339d11ebaf3ae59340ed"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 16).bin" size="22101744" crc="29ef75d9" sha1="96113e41011544498b474cc0aa0a1e48a7dfa53b"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 17).bin" size="60516960" crc="3b278e3d" sha1="0c5d7c9f92029c098a89df627b753a69eb66e563"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 18).bin" size="7486416" crc="282673a7" sha1="35860853d2597ce3092576f7a9011252fc02036e"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 19).bin" size="8032080" crc="713ecd81" sha1="fe51b8651bffc5e085e2f4ab564d811fedc90585"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 20).bin" size="37072224" crc="0f313dfc" sha1="c6b5c376f8024763e603c50604fd87a8e7265edd"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 21).bin" size="6397440" crc="ff5a8238" sha1="1014296745bc31979bb78aae2b539dc4dc564d7f"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 22).bin" size="12947760" crc="7214ad30" sha1="7245a7e8e0ae81a7f9a161a83da918449a005e09"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 23).bin" size="15636096" crc="b5820674" sha1="744a241a9cf19cd4aabbe5e6ee4258ed882376b4"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 24).bin" size="12900720" crc="9fa97360" sha1="b2bb6148dcde5c8e9dec86777862e9afcd33f14c"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 25).bin" size="5256720" crc="62aaac41" sha1="8454d2b652a884896177270f3bb6e7c72fb06307"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 26).bin" size="18385584" crc="4b93c20c" sha1="17e5aa3e80a957a4ecac5801bd4ad25c1a18c04f"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 27).bin" size="23432976" crc="a1c31759" sha1="5ec96de97c6a4db65c9094e1eef4cd37756ac9bb"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 28).bin" size="11611824" crc="ce1c9d9d" sha1="18c0ef954d9a749c038882bfb76ac1940a3e3379"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 29).bin" size="17910480" crc="5f3108d5" sha1="0b9363234359162b7f25343e041b34ad767d5d98"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 30).bin" size="26420016" crc="46004ab5" sha1="b3cba02ec816b096f2914b7901b7a3cf9b81b034"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 31).bin" size="3892560" crc="b55c1401" sha1="f6f4389e1670c756bbea511b8a2acff3452ac47f"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 32).bin" size="12776064" crc="74af7b75" sha1="475192ceb2c859ccd54b60e932e197022070bef4"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 33).bin" size="11748240" crc="c273ab77" sha1="f52283e4496f211d97c644fbc8520f9cbbbc49a5"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 34).bin" size="31434480" crc="0c1d920a" sha1="0214e0dc6274fcd01a5cc05f5e809c21112517d7"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 35).bin" size="5451936" crc="72aac0b6" sha1="4055045d01dedeb4c50e5d0fb009956db2e2ef4d"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 36).bin" size="28840224" crc="ecb2ce3f" sha1="2fb36fceda3d20b52e290f5c412e82820cb4ad4e"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 37).bin" size="49352016" crc="fdee206e" sha1="7b625bf33e4ace3c90b74a9afedbf1fba61ce34d"/>
+		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty).cue" size="5564" crc="167cf123" sha1="1274ffcff0bf1e8dffe09766a7447b167be44cbe"/>
+		-->
+		<description>CD Learning System II - New Horizon English Course 3 (FM Towns Marty version)</description>
+		<year>1993</year>
+		<publisher>東京書籍 (Tokyo Shoseki)</publisher>
+		<info name="serial" value="HME-176"/>
+		<info name="alt_title" value="ＣＤ ラーニングシステム Ⅱ ＮＥＷ　ＨＯＲＩＺＯＮ ３年" />
+		<info name="release" value="199305xx" />
+		<info name="usage" value="Requires 2 MB RAM"/>
+		<part name="cdrom" interface="fmt_cdrom">
+			<diskarea name="cdrom">
+				<disk name="cd learning system ii - new horizon english course 3 (japan) (fm towns marty)" sha1="e39a2eed4d34eb3f5a9b7df06891a04b9d407631" />
 			</diskarea>
 		</part>
 	</software>
@@ -26798,6 +27027,26 @@ User/save disks that can be created from the game itself are not included.
 		</part>
 	</software>
 
+	<software name="staccard" supported="no">
+		<!--
+		Origin: redump.org
+		<rom name="CRI StacCard (Japan).bin" size="31399200" crc="7dc82293" sha1="e7e854db13c74452a8cc7424e0e966e40b532a5c"/>
+		<rom name="CRI StacCard (Japan).cue" size="86" crc="c46b1696" sha1="172c377b45cccb601ba9dacdd7e0f99f7ab7fc55"/>
+		-->
+		<description>CRI StacCard</description>
+		<year>1991</year>
+		<publisher>CRI</publisher>
+		<notes>Missing a floppy disk</notes>
+		<info name="serial" value="HMC-112"/>
+		<info name="release" value="199105xx" />
+		<info name="usage" value="Requires 2 MB RAM"/>
+		<part name="cdrom" interface="fmt_cdrom">
+			<diskarea name="cdrom">
+				<disk name="cri staccard (japan)" sha1="155a4ac8980a459ec3a25585c52392bcfb955754" />
+			</diskarea>
+		</part>
+	</software>
+
 	<software name="startword">
 		<!--
 		Origin: redump.org
@@ -26919,21 +27168,20 @@ User/save disks that can be created from the game itself are not included.
 
 	<software name="strikpls">
 		<!--
-		Origin: Neo Kobe Collection
-		<rom name="Strike Commander Plus.ccd" size="783" crc="43cb88e0" sha1="75987bb1be0b59730854bc118c18ca59f644da35"/>
-		<rom name="Strike Commander Plus.cue" size="85" crc="d3f9e194" sha1="7cb8ae66d1f02abf530e949b1d73dcbb22afa6ed"/>
-		<rom name="Strike Commander Plus.img" size="94218768" crc="74939c73" sha1="3a8151bbc1ff1f34e9728ddbd2cbf987d2c2158c"/>
-		<rom name="Strike Commander Plus.sub" size="3845664" crc="6860d444" sha1="3a8439fcbc5c5ff809fd1305d64eb4e9f660edf9"/>
+		Origin: redump.org
+		<rom name="Strike Commander Plus (Japan).bin" size="94218768" crc="74939c73" sha1="3a8151bbc1ff1f34e9728ddbd2cbf987d2c2158c"/>
+		<rom name="Strike Commander Plus (Japan).cue" size="118" crc="bce09204" sha1="ce46d7acea8a7660558f66b9d54b2d85544b206d"/>
 		-->
 		<description>Strike Commander Plus</description>
 		<year>1995</year>
 		<publisher>エレクトロニック・アーツ・ビクター (Electronic Arts Victor)</publisher>
+		<info name="serial" value="EFT-7015"/>
 		<info name="alt_title" value="ストライク・コマンダーPLUS" />
 		<info name="release" value="199504xx" />
 		<info name="usage" value="Requires HDD installation and 6 MB RAM"/>
 		<part name="cdrom" interface="fmt_cdrom">
 			<diskarea name="cdrom">
-				<disk name="strike commander plus" sha1="c926c123e3c0c8e439b16c27ecca3b420e1964bb" />
+				<disk name="strike commander plus (japan)" sha1="28ee28583c539a2c426844120412d23afbb501f8" />
 			</diskarea>
 		</part>
 	</software>
@@ -28087,6 +28335,36 @@ User/save disks that can be created from the game itself are not included.
 		<part name="cdrom" interface="fmt_cdrom">
 			<diskarea name="cdrom">
 				<disk name="theme park (japan)" sha1="12e643552edcf740c007ac5f680b529eb56018b0" />
+			</diskarea>
+		</part>
+	</software>
+
+	<software name="th_city" supported="no">
+		<!--
+		Origin: redump.org
+		<rom name="Tele Harmonium - City Lights (Japan) (Track 01).bin" size="10231200" crc="e5cefd64" sha1="7ae3a9f94f2e23adede0c9173fadce6a95fd9321"/>
+		<rom name="Tele Harmonium - City Lights (Japan) (Track 02).bin" size="50575056" crc="a1c398fa" sha1="3de64a4ded1eeca9d55a16b59706d7f72988fa0e"/>
+		<rom name="Tele Harmonium - City Lights (Japan) (Track 03).bin" size="29094240" crc="85c75ee4" sha1="9fde37a50da20ef1a962a24a97b7339ae1cd64ef"/>
+		<rom name="Tele Harmonium - City Lights (Japan) (Track 04).bin" size="33222000" crc="824a6279" sha1="0798d9996e27e3f5b25be65aa9043a4b871539a8"/>
+		<rom name="Tele Harmonium - City Lights (Japan) (Track 05).bin" size="37761360" crc="6d2c59fa" sha1="ec48bf15336c774d49178efd9c4823b65ba693b5"/>
+		<rom name="Tele Harmonium - City Lights (Japan) (Track 06).bin" size="43394400" crc="da32a788" sha1="b16f55cfffdf9321c11378a492b72caa6d5e77c3"/>
+		<rom name="Tele Harmonium - City Lights (Japan) (Track 07).bin" size="32046000" crc="51b2e580" sha1="a24c31f5015ebb018a24f4fb7983f69fe8c7147c"/>
+		<rom name="Tele Harmonium - City Lights (Japan) (Track 08).bin" size="53926656" crc="5f8461e3" sha1="3c589f5f5ac99f4f490c30dcab7cc82e7b01d20c"/>
+		<rom name="Tele Harmonium - City Lights (Japan) (Track 09).bin" size="21744240" crc="e946d38f" sha1="a3e8d7ba061dda067f603145f54a516ce6c80274"/>
+		<rom name="Tele Harmonium - City Lights (Japan) (Track 10).bin" size="35785680" crc="4aeb528e" sha1="aa2856aa8dc2aa02b1b4e8607873185b9678e287"/>
+		<rom name="Tele Harmonium - City Lights (Japan) (Track 11).bin" size="36296064" crc="414b8972" sha1="98764d714d551d32a23832333e7488a2f8dbd36b"/>
+		<rom name="Tele Harmonium - City Lights (Japan) (Track 12).bin" size="39254880" crc="7b32c440" sha1="30ad958e87336546289b2ca054288a383490679d"/>
+		<rom name="Tele Harmonium - City Lights (Japan).cue" size="1577" crc="45e8c018" sha1="e3e824ad6658caa25cf6ccc7027dc281324c5ea5"/>
+		-->
+		<description>Tele Harmonium - City Lights</description>
+		<year>1992</year>
+		<publisher>レイゾン (Raison)</publisher>
+		<notes>Seems to require some specific expansion card, possibly a MIDI interface or a video input card.</notes>
+		<info name="serial" value="HMD-145 / THC-FMT"/>
+		<info name="release" value="199208xx" />
+		<part name="cdrom" interface="fmt_cdrom">
+			<diskarea name="cdrom">
+				<disk name="tele harmonium - city lights (japan)" sha1="ae8b4e8679febe5a9e99de5dcf7d502900dcb346" />
 			</diskarea>
 		</part>
 	</software>
